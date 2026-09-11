@@ -46,3 +46,20 @@ Mi experiencia se reduce a **InfoJobs**, una herramienta práctica y directa par
 
 Para una nueva app —ideal como proyecto de fin de curso— echo en falta **rangos salariales obligatorios** visibles desde el inicio y un sistema de **feedback automático** que explique la causa real de un descarte en lugar del silencio habitual de las empresas. El foco debería estar en validar competencias técnicas y eliminar ofertas fantasma, prescindiendo por completo de dinámicas de red social.
 
+## Ofertas de empleo
+
+- AI Enablement & Automation Engineer (80-100%, f::m::d) - Remote (Softwareentwickler/in)(*Suiza*): 
+https://europa.eu/eures/portal/jv-se/jv-details/MTczMzgtODA3OTg4OWRmNjA5YmExMzAwLVMgMQ?jvDisplayLanguage=de&lang=es
+
+Me llama trabajar aquí por la posibilidad de trabajar en remoto y cobrar tanto como un trabajador de Suiza
+
+- Web developer(*Irlanda*):
+https://europa.eu/eures/portal/jv-se/jv-details/MjQ2NDcxNiAxOA?jvDisplayLanguage=en&lang=en
+
+Me llamó la atención porque los lenguajes de programación que piden estoy bastante familiarizado
+
+- MOZO ALMACÉN WEB
+YORGA SAU(*España*):
+https://europa.eu/eures/portal/jv-se/jv-details/NzI4NDY3MSAxMDI?jvDisplayLanguage=es&lang=es
+
+Lo bueno de este trabajo es que sería en mi idioma natal lo cual simplifica el trabajo
