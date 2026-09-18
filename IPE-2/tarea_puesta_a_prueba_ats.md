@@ -15,69 +15,62 @@ CYBERGAL ha recibido 126 candidaturas para cubrir una vacante junior. Antes de q
 | 3 | Responsable IT | ¿Qué 2 personas pasan a la entrevista técnica? | 
 | 4 | Entrevista | ¿A quién contrataríais y por qué? | 
 
----
-
 ## HOJA DE CRIBADO COMPLETADA
 
 **Evaluador:** Sistema ATS + Equipo de Selección CYBERGAL
 
 | Candidato | Puntuación ATS | ¿Pasa de fase? | Fortaleza principal | Alerta / duda | 
  | ----- | ----- | ----- | ----- | ----- | 
-| **Daniel Varela** | 29 | ❌ NO | CV muy sincero y honesto. | CV genérico. No usa las palabras clave exactas de la oferta; el ATS no detecta sus conocimientos. | 
-| **Laura Souto** | 83 | ✅ SÍ | Coherencia total entre lo que sabe y cómo lo demuestra (laboratorio en casa). | Ninguna alerta grave. Perfil muy sólido para un puesto Junior. | 
-| **Hugo Costa** | 28 | ❌ NO | Formato atractivo visualmente. | El ATS no lee las "estrellitas" ni traduce el inglés ("Team player"). Cae en el filtro automático. | 
-| **Marcos Rey** | 76 | ✅ SÍ | Supera el umbral por nombrar todas las tecnologías. | *Keyword stuffing*: lista tecnologías avanzadas pero su experiencia es instalando ordenadores e impresoras. | 
-| **Iria Barreiro** | 77 | ✅ SÍ | Demuestra competencias a través de proyectos de aula muy bien explicados. | Ninguna alerta. Perfil muy bien adaptado y realista. | 
-| **Noa Vidal** | 94 | ✅ SÍ | Puntuación ATS perfecta, encaja al 100% con los requisitos. | Alerta roja humana: usó IA y el proyecto descrito es irreal y demasiado avanzado para su nivel. | 
+| **Daniel Varela** | 24<br>*(ASIR +15, Resolución de problemas +2, Trabajo en equipo +2, CV adaptado +5)* | &#10060; NO | CV sincero y honesto. | No usa términos exactos. Pierde los puntos de idioma por poner "nivel intermedio" y no especificar "B1/B2". | 
+| **Laura Souto** | 83<br>*(ASIR +15, Linux +5, Windows Server +5, TCP/IP +5, Active Directory +5, Firewalls +5, Monitorización de sistemas +5, Inglés B2 +10, Resolución de problemas +2, Trabajo en equipo +2, Python +3, Docker +3, Git/GitHub +3, Proyecto relacionado +10, CV adaptado +5)* | &#9989; SÍ | Coherencia total entre conocimientos y demostración (laboratorio doméstico). | Perfil muy sólido, sin alertas. | 
+| **Hugo Costa** | 25<br>*(ASIR +15, Linux +5, Resolución de problemas +2, Python +3)* | &#10060; NO | Formato visualmente atractivo. | El ATS no lee "estrellitas", no traduce "Team player" ni asume que "Windows" equivale a "Windows Server". | 
+| **Marcos Rey** | 76<br>*(ASIR +15, Linux +5, Windows Server +5, TCP/IP +5, Active Directory +5, Firewalls +5, Monitorización de sistemas +5, SIEM +5, Inglés B2 +10, Resolución de problemas +2, Trabajo en equipo +2, Python +3, Docker +3, Azure +3, Git/GitHub +3)* | &#9989; SÍ | Supera el umbral por inyectar casi todas las palabras clave de la oferta. | Lista de certificaciones y tecnologías (CCNA, SIEM, Docker) que no concuerdan con su experiencia (instalar equipos e impresoras). Su CCNA no suma porque no afirma tenerlo, solo lo lista. | 
+| **Iria Barreiro** | 70<br>*(ASIR +15, Linux +5, Windows Server +5, TCP/IP +5, Active Directory +5, SIEM +5, Inglés B1 +10, Trabajo en equipo +2, Git/GitHub +3, Proyecto relacionado +10, CV adaptado +5)* | &#9989; SÍ | Demuestra competencias a través de proyectos reales de aula. | Pierde puntos porque el ATS busca literalmente "resolución de problemas", "monitorización de sistemas" o "firewalls", y ella usa variaciones ("resolución de incidencias", "monitorización de servidores", "firewall" en singular). | 
+| **Noa Vidal** | 94<br>*(ASIR +15, Linux +5, Windows Server +5, TCP/IP +5, Active Directory +5, Firewalls +5, Monitorización de sistemas +5, SIEM +5, Inglés B2 +10, Resolución de problemas +2, Trabajo en equipo +2, Python +3, Docker +3, CCNA +3, Azure +3, Git/GitHub +3, Proyecto relacionado +10, CV adaptado +5)* | &#9989; SÍ | Puntuación perfecta, redactado para el algoritmo. | Proyecto descrito totalmente irreal para unas prácticas de FP. Evidente uso sin filtro de IA. | 
 
 * **Tres candidaturas seleccionadas por RR. HH.:** 1) Laura Souto 2) Iria Barreiro 3) Noa Vidal
-*(RR. HH. descarta a Marcos al revisar manualmente su CV y ver que es solo una lista de palabras clave sin experiencia coherente que la respalde).*
+  *(Marcos es descartado al instante por Recursos Humanos: es evidente que solo puso palabras clave sin experiencia que las respalde).*
 
 * **Dos candidaturas seleccionadas por el responsable IT:** 1) Laura Souto 2) Iria Barreiro
 
 **Justificación del evaluador (Responsable IT):**
-Seleccionamos a Laura e Iria porque sus currículums son coherentes. Laura tiene un laboratorio doméstico que demuestra su interés real, e Iria detalla proyectos de clase (como su laboratorio SIEM) que encajan perfectamente con lo que necesitamos. Descartamos a Noa porque, aunque el ATS le dio la nota más alta, su afirmación de haber diseñado una "arquitectura integral de ciberseguridad con respuesta automatizada en Azure" durante unas prácticas de FP es totalmente irreal y fruto de alucinar con la IA. Marcos fue descartado porque nombrar tecnologías sin haberlas usado en contexto no aporta valor real.
-
----
+Seleccionamos a Laura e Iria porque sus currículums son coherentes y realistas. Laura tiene un laboratorio en casa e Iria detalla proyectos de clase (laboratorio SIEM) que encajan con una posición Junior. Descartamos a Noa: aunque superó el ATS con nota máxima, afirmar que diseñó una "arquitectura integral de ciberseguridad automatizada en Azure" durante una FCT es mentira, fruto de generar el CV con IA sin adaptarlo a la realidad.
 
 ## FASE 4 · MINI ENTREVISTA
 
 ### Preguntas comunes para finalistas (Laura e Iria)
 
-1. Has mencionado que tienes laboratorios/proyectos en casa o en clase. ¿Puedes explicarme cómo montaste la red y qué hypervisor usaste?
-2. Si un usuario reporta que no puede acceder a una carpeta compartida en el servidor Windows, ¿cuáles son los pasos exactos que sigues para diagnosticarlo?
-3. ¿Cómo configurarías una regla de firewall básica para permitir tráfico web pero bloquear ping (ICMP)?
-4. ¿Qué información buscas primero cuando revisas los logs en un sistema de monitorización o SIEM?
-5. ¿Qué comando en Linux usarías para ver tu IP actual y cuál para comprobar si hay conexión con el servidor DNS?
-6. Háblame de alguna incidencia técnica que te haya costado resolver en tus prácticas o proyectos y cómo la solucionaste.
-7. En esta empresa usamos herramientas que no has visto en el ciclo, ¿cómo es tu proceso para aprender una tecnología nueva desde cero?
-8. ¿Qué estructura de permisos aplicarías en Active Directory para un departamento de contabilidad?
-9. ¿Tienes experiencia gestionando repositorios en GitHub trabajando con otras personas? ¿Cómo resuelves un conflicto en el código o en la documentación?
-10. ¿Por qué te interesa orientar tu carrera hacia la ciberseguridad y no solo a sistemas puros?
+ 1. Has mencionado que tienes laboratorios/proyectos. ¿Puedes explicarme cómo montaste la red y qué hypervisor usaste?
+ 2. Si un usuario reporta que no puede acceder a una carpeta compartida en Windows Server, ¿qué pasos sigues para diagnosticarlo?
+ 3. ¿Cómo configurarías una regla de firewall básica para permitir tráfico web pero bloquear ping (ICMP)?
+ 4. ¿Qué información buscas primero al revisar los logs en un sistema de monitorización?
+ 5. ¿Qué comando en Linux usarías para ver tu IP actual y cuál para comprobar si llegas al servidor DNS?
+ 6. Háblame de alguna incidencia técnica que te haya costado resolver en tus prácticas y cómo lo solucionaste.
+ 7. Usamos herramientas que no has visto en el ciclo, ¿cómo es tu proceso para aprender una tecnología nueva?
+ 8. ¿Qué estructura de permisos aplicarías en Active Directory para el departamento de contabilidad?
+ 9. ¿Tienes experiencia con GitHub trabajando en equipo? ¿Cómo resuelves un conflicto de versiones?
+10. ¿Por qué te interesa orientar tu carrera hacia la ciberseguridad y no solo a sistemas?
 
 **Pregunta trampa para el CV optimizado con IA (Noa Vidal):**
 
-11. *"En tu CV mencionas el diseño integral de una arquitectura con respuesta automatizada a incidentes en Azure. ¿Podrías detallarme qué servicios específicos de Azure empleaste para los playbooks de automatización y cómo calculasteis los costes de ingesta de logs en Microsoft Sentinel?"* (Esta pregunta técnica avanzada desmontaría rápidamente un proyecto exagerado por IA).
-
----
+11. *"En tu CV mencionas el diseño integral de una arquitectura con respuesta automatizada a incidentes en Azure. ¿Qué servicios específicos de Azure empleaste para los playbooks y cómo calculaste los costes de ingesta de logs en Microsoft Sentinel?"*
 
 ### Debate final
 
 * **¿La candidatura con mayor puntuación ATS era la mejor?**
-  No. Noa Vidal sacó la máxima nota porque la IA inyectó todas las palabras clave y redactó proyectos a medida, pero carecía de la experiencia real para sostenerlo en una entrevista.
+  No. El ATS puntúa coincidencias de texto. Noa Vidal sacó la máxima nota inyectando palabras clave y proyectos inventados por IA, pero cae en la fase humana/entrevista.
 
 * **¿Qué información importante perdió el cribado automático?**
-  Perdió la honestidad y proyectos base de Daniel, y la capacidad de resolución (soft skills) que sugería el perfil de Hugo. Ambos podrían ser excelentes trabajadores, pero fueron eliminados simplemente por no saber "jugar al juego" del algoritmo o usar formatos incompatibles.
+  A perfiles válidos pero mal redactados. Daniel es honesto y Hugo puede tener buenas habilidades, pero fueron eliminados por no usar el vocabulario literal que exige la máquina ("nivel intermedio" en vez de B1).
 
 * **¿Qué diferencia hay entre nombrar una competencia y demostrarla?**
-  Nombrarla (como hizo Marcos) es poner "Docker" o "SIEM" en una lista al azar; el ATS te puntúa, pero el humano desconfía. Demostrarla (como hizo Iria) es contextualizarla: *"Configuración de un entorno de aula para centralización de eventos de seguridad (SIEM)"*.
+  Nombrarla es hacer una lista (Marcos). Demostrarla es contextualizarla en una experiencia o proyecto (Iria: *"Configuración de un entorno de aula para centralización de eventos"*).
 
 * **¿Un CV visual es necesariamente peor para un ATS? ¿Qué parte de esta simulación simplifica la realidad?**
-  Generalmente sí, si abusa de gráficos. Elementos como barras de progreso (las estrellas de Hugo), columnas complejas o texto incrustado en imágenes suelen romper el análisis (*parsing*) del ATS. 
-  La simulación simplifica la realidad porque los ATS modernos tienen procesamiento de lenguaje natural (NLP) y son capaces de entender sinónimos (sabrían que "Networking" equivale a "Redes"). Además, rara vez el corte es 100% automático sin que un humano dé un vistazo rápido a los descartados.
+  Sí. Las columnas complejas, iconos y barras de progreso (como las de Hugo) impiden que el ATS extraiga el texto. La simulación simplifica la realidad porque los ATS actuales usan procesamiento de lenguaje natural y sí asocian ciertos sinónimos.
 
 * **¿Es legítimo usar IA para adaptar un CV? ¿Dónde estaría el límite?**
-  Es completamente legítimo usar IA para mejorar la redacción, corregir faltas de ortografía, estructurar la información y resaltar aspectos de tu experiencia real que encajan mejor con la oferta. El límite se cruza cuando la IA inventa responsabilidades, aumenta el nivel de conocimientos reales o crea proyectos ficticios.
+  Es legítimo para mejorar la redacción, corregir ortografía y destacar experiencia real. El límite se cruza al inventar responsabilidades o inflar conocimientos que no se poseen.
 
 * **¿Quién es responsable si una IA introduce una competencia o certificación falsa?**
-  El 100% de la responsabilidad es del candidato. El CV es un documento profesional que lleva su nombre y es su deber revisar, validar y poder defender cada palabra escrita en él antes de enviarlo.
+  El candidato. El CV es un documento personal y profesional; es su responsabilidad revisar y poder defender cada palabra escrita en él.
