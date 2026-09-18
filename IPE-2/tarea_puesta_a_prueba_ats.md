@@ -1,26 +1,12 @@
-# MISIÓN: SOBREVIVIR AL ATS
+# MISIÓN: SOBREVIVIR AL ATS (SOLUCIONARIO)
 
 **Pack de simulación de cribado para IPE II · Familia profesional de Informática**
 
 **Objetivo:** comprender cómo una oferta, las palabras clave y la evidencia de competencias influyen en un primer cribado automatizado, y por qué superar el filtro no equivale a ser la mejor candidatura.
 
-## FICHA DE MISIÓN (Documento para el alumnado)
+## FICHA DE MISIÓN
 
 CYBERGAL ha recibido 126 candidaturas para cubrir una vacante junior. Antes de que RR. HH. revise los currículos, un sistema ATS realiza un primer cribado. Solo las candidaturas que alcancen el umbral pasan a la siguiente fase.
-
-* Analizar la oferta e identificar requisitos y palabras clave.
-
-* Aplicar exactamente las mismas reglas para los seis CV.
-
-* No deducir, dar por hecho, competencias: si no aparecen de forma explícita, el ATS no las puntúa.
-
-* Seleccionar las candidaturas que superan el umbral.
-
-* Después, abandonar el papel de máquina y actuar como RR. HH.
-
-* Finalmente, justificar a quién entrevistaríais como responsables del área IT.
-
-**NO PUNTÚES LO QUE CREES QUE LA PERSONA SABE. PUNTÚA LO QUE EL CV DEMUESTRA.**
 
 | Fase | Rol | Decisión | 
  | ----- | ----- | ----- | 
@@ -29,256 +15,69 @@ CYBERGAL ha recibido 126 candidaturas para cubrir una vacante junior. Antes de q
 | 3 | Responsable IT | ¿Qué 2 personas pasan a la entrevista técnica? | 
 | 4 | Entrevista | ¿A quién contrataríais y por qué? | 
 
-## OFERTA DE EMPLEO
+---
 
-**CYBERGAL · Junior Cybersecurity Technician**
+## HOJA DE CRIBADO COMPLETADA
 
-CYBERGAL es una pyme tecnológica que presta servicios de administración de sistemas, redes y ciberseguridad a pequeñas y medianas empresas.
-
-Buscamos una persona junior para incorporarse al equipo de sistemas y seguridad, con capacidad de aprendizaje y orientación a la resolución de incidencias.
-
-**Requisitos y conocimientos:**
-
-* CFGS Administración de Sistemas Informáticos en Red (ASIR).
-
-* Linux y Windows Server.
-
-* Redes TCP/IP.
-
-* Active Directory.
-
-* Firewalls.
-
-* Monitorización de sistemas.
-
-* Conocimientos básicos de SIEM.
-
-* Inglés B1/B2.
-
-* Resolución de problemas.
-
-* Trabajo en equipo.
-
-* Python.
-
-* Docker.
-
-* Certificación CCNA.
-
-* Microsoft Azure.
-
-* Git/GitHub.
-
-**Funciones:**
-
-* Administración y monitorización básica de servidores y servicios.
-
-* Gestión de usuarios, grupos y permisos.
-
-* Apoyo en la configuración y revisión de firewalls.
-
-* Diagnóstico de incidencias de red.
-
-* Registro y documentación de incidencias.
-
-* Apoyo al equipo en tareas básicas de ciberseguridad.
-
-## ALGORITMO ATS SIMULADO
-
-**Hoja de reglas**
-
-| Criterio | Puntos | Regla | 
- | ----- | ----- | ----- | 
-| ASIR | +15 | Debe aparecer la titulación. | 
-| Linux | +5 | Debe aparecer explícitamente. | 
-| Windows Server | +5 | Debe aparecer explícitamente. | 
-| TCP/IP | +5 | Debe aparecer explícitamente. | 
-| Active Directory | +5 | Debe aparecer explícitamente. | 
-| Firewalls | +5 | Debe aparecer explícitamente. | 
-| Monitorización de sistemas | +5 | Debe aparecer explícitamente. | 
-| SIEM | +5 | Debe aparecer explícitamente. | 
-| Inglés B1/B2 | +10 | Debe indicar B1, B2 o superior. | 
-| Resolución de problemas | +2 | Debe aparecer explícitamente. | 
-| Trabajo en equipo | +2 | Debe aparecer explícitamente. | 
-| Python | +3 | Valorable. | 
-| Docker | +3 | Valorable. | 
-| CCNA | +3 | Solo si se afirma certificación, no solo palabra clave. | 
-| Azure | +3 | Valorable. | 
-| Git/GitHub | +3 | Valorable. | 
-| Proyecto/experiencia relacionada | +10 | Debe describir una experiencia o proyecto claramente relacionado. | 
-| CV claramente adaptado | +5 | Lenguaje y contenido alineados con el puesto y con coherencia. | 
-
-**UMBRAL: 65 PUNTOS.**
-*Importante:* una lista de palabras sin evidencia puede ser detectada en la fase humana. En esta simulación, la certificación CCNA solo puntúa si el CV afirma claramente que está obtenida.
-
-## HOJA DE CRIBADO
-
-**Evaluador:** Karim Hanouni Otero
+**Evaluador:** Sistema ATS + Equipo de Selección CYBERGAL
 
 | Candidato | Puntuación ATS | ¿Pasa de fase? | Fortaleza principal | Alerta / duda | 
  | ----- | ----- | ----- | ----- | ----- | 
-| Daniel Varela |15+10+2+2+5=34  | :x: |  |  | 
-| Laura Souto |  |  |  |  | 
-| Hugo Costa |  |  |  |  | 
-| Marcos Rey |  |  |  |  | 
-| Iria Barreiro |  |  |  |  | 
-| Noa Vidal |  |  |  |  | 
+| **Daniel Varela** | 29 | ❌ NO | CV muy sincero y honesto. | CV genérico. No usa las palabras clave exactas de la oferta; el ATS no detecta sus conocimientos. | 
+| **Laura Souto** | 83 | ✅ SÍ | Coherencia total entre lo que sabe y cómo lo demuestra (laboratorio en casa). | Ninguna alerta grave. Perfil muy sólido para un puesto Junior. | 
+| **Hugo Costa** | 28 | ❌ NO | Formato atractivo visualmente. | El ATS no lee las "estrellitas" ni traduce el inglés ("Team player"). Cae en el filtro automático. | 
+| **Marcos Rey** | 76 | ✅ SÍ | Supera el umbral por nombrar todas las tecnologías. | *Keyword stuffing*: lista tecnologías avanzadas pero su experiencia es instalando ordenadores e impresoras. | 
+| **Iria Barreiro** | 77 | ✅ SÍ | Demuestra competencias a través de proyectos de aula muy bien explicados. | Ninguna alerta. Perfil muy bien adaptado y realista. | 
+| **Noa Vidal** | 94 | ✅ SÍ | Puntuación ATS perfecta, encaja al 100% con los requisitos. | Alerta roja humana: usó IA y el proyecto descrito es irreal y demasiado avanzado para su nivel. | 
 
-* **Tres candidaturas seleccionadas por RR. HH.:** 1) \_________\_ 2) \_________\_ 3) \_________\_
+* **Tres candidaturas seleccionadas por RR. HH.:** 1) Laura Souto 2) Iria Barreiro 3) Noa Vidal
+*(RR. HH. descarta a Marcos al revisar manualmente su CV y ver que es solo una lista de palabras clave sin experiencia coherente que la respalde).*
 
-* **Dos candidaturas seleccionadas por el responsable IT:** 1) \_________\_ 2) \_________\_
+* **Dos candidaturas seleccionadas por el responsable IT:** 1) Laura Souto 2) Iria Barreiro
 
-**Justificación del evaluador:**
+**Justificación del evaluador (Responsable IT):**
+Seleccionamos a Laura e Iria porque sus currículums son coherentes. Laura tiene un laboratorio doméstico que demuestra su interés real, e Iria detalla proyectos de clase (como su laboratorio SIEM) que encajan perfectamente con lo que necesitamos. Descartamos a Noa porque, aunque el ATS le dio la nota más alta, su afirmación de haber diseñado una "arquitectura integral de ciberseguridad con respuesta automatizada en Azure" durante unas prácticas de FP es totalmente irreal y fruto de alucinar con la IA. Marcos fue descartado porque nombrar tecnologías sin haberlas usado en contexto no aporta valor real.
 
-## CANDIDATURAS
-
-### DANIEL VARELA
-
-**Técnico Superior en Administración de Sistemas Informáticos en Red**
-Técnico informático recién titulado, interesado en sistemas y seguridad informática. Responsable, trabajador y con muchas ganas de aprender.
-
-* **Educación:** CFGS Administración de Sistemas Informáticos en Red (ASIR) · 2024–2026
-
-* **Experiencia:** Formación en empresa — Servicios Informáticos Noroeste · marzo–junio 2026
-
-  * Administración y mantenimiento de sistemas informáticos. Gestión de redes. Creación y administración de usuarios. Instalación y configuración de equipos. Resolución de incidencias. Copias de seguridad. Soporte a usuarios.
-
-* **Proyecto final de ciclo:** sistema de monitorización de una red empresarial. Diseño e implantación de un sistema para controlar equipos y servicios de una pequeña empresa y detectar incidencias.
-
-* **Conocimientos:** Administración de sistemas · Redes · Seguridad informática · Virtualización · Bases de datos · Ofimática
-
-* **Idiomas:** Inglés: nivel intermedio
-
-* **Competencias:** Responsabilidad · Capacidad de aprendizaje · Trabajo en equipo · Resolución de problemas
-
-### LAURA SOUTO
-
-**Junior Systems & Cybersecurity Technician**
-Técnica Superior en ASIR con conocimientos en administración de sistemas Linux y Windows Server, redes TCP/IP, Active Directory, firewalls y monitorización de sistemas. Interesada en desarrollar mi carrera profesional en ciberseguridad.
-
-* **Educación:** CFGS Administración de Sistemas Informáticos en Red (ASIR) · 2024–2026
-
-* **Experiencia:** Formación en empresa — TecnoRed Galicia · marzo–junio 2026
-
-  * Administración básica de servidores Linux y Windows Server. Configuración y resolución de incidencias en redes TCP/IP. Gestión de usuarios y permisos mediante Active Directory. Configuración básica de firewalls. Monitorización de equipos y servicios. Soporte técnico.
-
-* **Habilidades técnicas:** Linux · Windows Server · TCP/IP · Active Directory · Firewalls · Monitorización de sistemas · Docker · Git/GitHub · Python básico
-
-* **Otros:** Laboratorio doméstico de virtualización y ciberseguridad utilizando máquinas virtuales Linux y Windows.
-
-* **Idiomas:** Inglés B2
-
-* **Competencias:** Trabajo en equipo · Resolución de problemas · Aprendizaje autónomo
-
-### HUGO COSTA
-
-**IT GUY · TECH LOVER · PROBLEM SOLVER**
-Apasionado de la tecnología desde joven. Me encanta aprender cosas nuevas, solucionar problemas y trabajar con personas. Busco mi primera oportunidad profesional en una empresa tecnológica.
-
-* **Educación:** ASIR — Técnico Superior · 2024–2026
-
-* **Skills:**
-
-  * Linux ★★★★☆
-
-  * Windows ★★★★☆
-
-  * Networking ★★★★☆
-
-  * Cybersecurity ★★★☆☆
-
-  * Python ★★☆☆☆
-
-  * Cloud ★★☆☆☆
-
-* **Experiencia:** IT Intern — 2026
-
-  * Soporte informático · Instalación de equipos · Servidores · Redes · Atención al usuario · Resolución de problemas
-
-* **Idiomas:** English ★★★☆☆
-
-* **Competencias:** Creative · Team player · Fast learner · Problem solver
-
-### MARCOS REY
-
-**Técnico informático | Ciberseguridad | Sistemas | Redes**
-Técnico Superior en ASIR interesado en incorporarse al área de ciberseguridad.
-
-* **Educación:** CFGS Administración de Sistemas Informáticos en Red · 2024–2026
-
-* **Experiencia:** Formación en empresa — MicroPC · 2026
-
-  * Instalación de ordenadores. Actualización de software. Atención a clientes. Resolución de incidencias básicas. Configuración de impresoras y periféricos.
-
-* **Palabras clave:** Linux · Windows Server · TCP/IP · Firewalls · Active Directory · SIEM · Monitorización de sistemas · Python · Docker · Azure · Git · GitHub · CCNA · Ciberseguridad · Redes · Cloud computing
-
-* **Idiomas:** Inglés B2
-
-* **Competencias:** Trabajo en equipo · Resolución de problemas · Comunicación · Adaptabilidad
-
-### IRIA BARREIRO
-
-**Técnica Superior ASIR | Sistemas, redes y ciberseguridad**
-Técnica Superior en Administración de Sistemas Informáticos en Red, con experiencia formativa en administración de sistemas, redes y soporte. Interesada especialmente en monitorización y seguridad de infraestructuras.
-
-* **Educación:** CFGS Administración de Sistemas Informáticos en Red · 2024–2026
-
-* **Experiencia:** Formación en empresa — NetSystems · marzo–junio 2026
-
-  * Administración de servidores Linux y Windows Server. Gestión de usuarios, grupos y permisos en Active Directory. Configuración y diagnóstico de redes TCP/IP. Monitorización de servidores y servicios. Aplicación de reglas básicas de firewall. Documentación y resolución de incidencias.
-
-* **Proyectos:**
-
-  * Laboratorio SIEM — Proyecto de aula: configuración de un entorno para centralización y análisis de eventos de seguridad.
-
-  * Proyecto de redes: diseño, configuración y documentación de la red de una pyme simulada.
-
-* **Conocimientos:** Linux · Windows Server · TCP/IP · Active Directory · Firewalls · Monitorización · SIEM básico · Git/GitHub
-
-* **Idiomas:** Inglés B1 acreditado
-
-* **Competencias:** Trabajo en equipo desarrollado en proyectos de ciclo · Resolución y documentación de incidencias · Aprendizaje autónomo
-
-### NOA VIDAL
-
-**Junior Cybersecurity & Systems Technician**
-Técnica Superior en ASIR. CV adaptado con ayuda de una herramienta de IA a partir de mi experiencia y de la oferta de CYBERGAL.
-
-* **Educación:** CFGS Administración de Sistemas Informáticos en Red (ASIR) · 2024–2026
-
-* **Experiencia:** Formación en empresa — ByteNorte · 2026
-
-  * Administración de Linux y Windows Server. Redes TCP/IP. Active Directory. Firewalls. Monitorización de sistemas. Análisis SIEM. Automatización con Python. Docker. Microsoft Azure. Git/GitHub.
-
-* **Proyectos:** Diseño integral de una arquitectura de ciberseguridad empresarial con SIEM, respuesta automatizada a incidentes y servicios cloud en Azure.
-
-* **Certificaciones:** CCNA · Microsoft Azure Fundamentals
-
-* **Idiomas:** Inglés B2
-
-* **Competencias:** Trabajo en equipo · Resolución de problemas · Comunicación · Adaptabilidad
+---
 
 ## FASE 4 · MINI ENTREVISTA
 
-**Preguntas comunes para finalistas**
-Escribid 10 preguntas que sean comunes para todos los candidatos y 1 más para el CV optimizado con IA.
+### Preguntas comunes para finalistas (Laura e Iria)
 
-**Debate final**
+1. Has mencionado que tienes laboratorios/proyectos en casa o en clase. ¿Puedes explicarme cómo montaste la red y qué hypervisor usaste?
+2. Si un usuario reporta que no puede acceder a una carpeta compartida en el servidor Windows, ¿cuáles son los pasos exactos que sigues para diagnosticarlo?
+3. ¿Cómo configurarías una regla de firewall básica para permitir tráfico web pero bloquear ping (ICMP)?
+4. ¿Qué información buscas primero cuando revisas los logs en un sistema de monitorización o SIEM?
+5. ¿Qué comando en Linux usarías para ver tu IP actual y cuál para comprobar si hay conexión con el servidor DNS?
+6. Háblame de alguna incidencia técnica que te haya costado resolver en tus prácticas o proyectos y cómo la solucionaste.
+7. En esta empresa usamos herramientas que no has visto en el ciclo, ¿cómo es tu proceso para aprender una tecnología nueva desde cero?
+8. ¿Qué estructura de permisos aplicarías en Active Directory para un departamento de contabilidad?
+9. ¿Tienes experiencia gestionando repositorios en GitHub trabajando con otras personas? ¿Cómo resuelves un conflicto en el código o en la documentación?
+10. ¿Por qué te interesa orientar tu carrera hacia la ciberseguridad y no solo a sistemas puros?
 
-* ¿La candidatura con mayor puntuación ATS era la mejor?
+**Pregunta trampa para el CV optimizado con IA (Noa Vidal):**
 
-* ¿Qué información importante perdió el cribado automático?
+11. *"En tu CV mencionas el diseño integral de una arquitectura con respuesta automatizada a incidentes en Azure. ¿Podrías detallarme qué servicios específicos de Azure empleaste para los playbooks de automatización y cómo calculasteis los costes de ingesta de logs en Microsoft Sentinel?"* (Esta pregunta técnica avanzada desmontaría rápidamente un proyecto exagerado por IA).
 
-* ¿Qué diferencia hay entre nombrar una competencia y demostrarla?
+---
 
-* ¿Un CV visual es necesariamente peor para un ATS? ¿Qué parte de esta simulación simplifica la realidad?
+### Debate final
 
-* ¿Es legítimo usar IA para adaptar un CV? ¿Dónde estaría el límite?
+* **¿La candidatura con mayor puntuación ATS era la mejor?**
+  No. Noa Vidal sacó la máxima nota porque la IA inyectó todas las palabras clave y redactó proyectos a medida, pero carecía de la experiencia real para sostenerlo en una entrevista.
 
-* ¿Quién es responsable si una IA introduce una competencia o certificación falsa?
+* **¿Qué información importante perdió el cribado automático?**
+  Perdió la honestidad y proyectos base de Daniel, y la capacidad de resolución (soft skills) que sugería el perfil de Hugo. Ambos podrían ser excelentes trabajadores, pero fueron eliminados simplemente por no saber "jugar al juego" del algoritmo o usar formatos incompatibles.
 
-* ¿Qué cambiaríais ahora en vuestro propio CV?
+* **¿Qué diferencia hay entre nombrar una competencia y demostrarla?**
+  Nombrarla (como hizo Marcos) es poner "Docker" o "SIEM" en una lista al azar; el ATS te puntúa, pero el humano desconfía. Demostrarla (como hizo Iria) es contextualizarla: *"Configuración de un entorno de aula para centralización de eventos de seguridad (SIEM)"*.
 
-## ¿Y SI OS PRESENTARAIS VOSOTROS?
+* **¿Un CV visual es necesariamente peor para un ATS? ¿Qué parte de esta simulación simplifica la realidad?**
+  Generalmente sí, si abusa de gráficos. Elementos como barras de progreso (las estrellas de Hugo), columnas complejas o texto incrustado en imágenes suelen romper el análisis (*parsing*) del ATS. 
+  La simulación simplifica la realidad porque los ATS modernos tienen procesamiento de lenguaje natural (NLP) y son capaces de entender sinónimos (sabrían que "Networking" equivale a "Redes"). Además, rara vez el corte es 100% automático sin que un humano dé un vistazo rápido a los descartados.
 
-Cada estudiante busca una oferta real relacionada con su perfil y crea tres columnas: **LO TENGO** · **LO TENGO PERO NO APARECE EN MI CV** · **TODAVÍA NO LO TENGO**. La tercera columna se convierte en un pequeño plan personal de mejora de empleabilidad.
+* **¿Es legítimo usar IA para adaptar un CV? ¿Dónde estaría el límite?**
+  Es completamente legítimo usar IA para mejorar la redacción, corregir faltas de ortografía, estructurar la información y resaltar aspectos de tu experiencia real que encajan mejor con la oferta. El límite se cruza cuando la IA inventa responsabilidades, aumenta el nivel de conocimientos reales o crea proyectos ficticios.
+
+* **¿Quién es responsable si una IA introduce una competencia o certificación falsa?**
+  El 100% de la responsabilidad es del candidato. El CV es un documento profesional que lleva su nombre y es su deber revisar, validar y poder defender cada palabra escrita en él antes de enviarlo.
