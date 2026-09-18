@@ -113,11 +113,11 @@ Buscamos una persona junior para incorporarse al equipo de sistemas y seguridad,
 
 ## HOJA DE CRIBADO
 
-**Evaluador:** \_________________________\_
+**Evaluador:** Karim Hanouni Otero
 
 | Candidato | Puntuación ATS | ¿Pasa de fase? | Fortaleza principal | Alerta / duda | 
  | ----- | ----- | ----- | ----- | ----- | 
-| Daniel Varela |  |  |  |  | 
+| Daniel Varela |15+10+2+2+5=34  | :x: |  |  | 
 | Laura Souto |  |  |  |  | 
 | Hugo Costa |  |  |  |  | 
 | Marcos Rey |  |  |  |  | 
